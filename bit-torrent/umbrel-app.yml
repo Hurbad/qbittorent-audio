@@ -1,5 +1,5 @@
 manifestVersion: 1.1
-id: qbittorrent
+id: bit-qbittorrent
 category: networking
 name: qBittorrent
 version: "5.1.0"
